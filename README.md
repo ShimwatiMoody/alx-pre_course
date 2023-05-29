@@ -1,2 +1,2 @@
 My second readme
-README.md update ftrom Github.com
+README.md update from Github.com
